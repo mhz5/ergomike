@@ -1,0 +1,4 @@
+baseURL = "https://ergomike.org/"
+languageCode = "en-us"
+title = "Ergo Mike"
+theme = "ananke"
